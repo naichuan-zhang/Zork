@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>zork.ico</file>
+        <file>play_icon.jpg</file>
+        <file>exit_icon.png</file>
+    </qresource>
+</RCC>

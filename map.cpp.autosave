@@ -1,0 +1,23 @@
+#include "map.h"
+
+Map::Map(QWidget *parent, Ui::MainWindow *ui)
+    : ui(ui)
+{
+
+}
+
+Map::Map(const string description)
+    : description (description)
+{
+    this->setPixmap(QPixmap(":/game/map.jpg"));
+    this->setPos(350, 250);
+    this->setRect
+}
+
+void Map::mousePressEvent(QGraphicsSceneMouseEvent *event)
+{
+    text = QString::fromStdString(getDescription());
+    ui->textEdit2->setPlainText(text);
+
+    QGraphicsItem::mousePressEvent(event);
+}

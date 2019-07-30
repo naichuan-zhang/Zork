@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/game">
+        <file>snake.jpg</file>
+        <file>logs.jpg</file>
+        <file>tiger.jpg</file>
+        <file>stone.jpg</file>
+        <file>gold.JPG</file>
+        <file>map.jpg</file>
+        <file>at Home.jpg</file>
+        <file>on the Path1.jpg</file>
+        <file>in the Forest.jpg</file>
+        <file>at the Balcony.jpg</file>
+        <file>at the River.jpg</file>
+        <file>beside the Spring.jpg</file>
+        <file>in the Bank.jpg</file>
+        <file>in the Castle.jpg</file>
+        <file>in the Garden.jpg</file>
+        <file>on the Mountain.jpg</file>
+        <file>on the Path2.jpg</file>
+        <file>under the Tree.jpg</file>
+    </qresource>
+</RCC>

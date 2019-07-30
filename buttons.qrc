@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>play1.png</file>
+        <file>play2.png</file>
+        <file>play3.png</file>
+        <file>help1.png</file>
+        <file>exit1.PNG</file>
+        <file>exit2.PNG</file>
+        <file>help2.png</file>
+        <file>setting.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>close.png</file>
+        <file>max.jpg</file>
+        <file>min.png</file>
+        <file>background.jpg</file>
+        <file>logo.png</file>
+        <file>bgd.jpg</file>
+        <file>bgd_play.jpg</file>
+        <file>male.png</file>
+        <file>female.png</file>
+        <file>win.gif</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
